@@ -1,40 +1,40 @@
-## Movie_Recommendation_System
-# 🎥 Movie Recommendation System
+
+# Movie Recommendation System
 
 Welcome to the **Movie Recommendation System**! This project uses machine learning to recommend movies based on user preferences. The app is deployed and live at:
 
-👉 **[Live Demo](https://movie-recommendation-system-2mdh.onrender.com/)**
+**[Live Demo](https://movie-recommendation-system-2mdh.onrender.com/)**
 
 
 ---
 
-## 📝 About
+## About
 The **Movie Recommendation System** suggests movies to users based on their preferences. Whether you're looking for something new to watch or want to explore similar movies to your favorites, this app has got you covered!
 
 ---
 
-## 🌟 Features
-- 📋 Recommend movies based on user input.
-- 🎬 Search for movies by title or genre.
-- ⭐ Find similar movies based on ratings or features.
-- ⚡ Fast and intuitive user interface.
+## Features
+- Recommend movies based on user input.
+- Search for movies by title or genre.
+- Find similar movies based on ratings or features.
+- Fast and intuitive user interface.
 
 ---
 
-## 💻 Technologies Used
+## Technologies Used
 - **Frontend**: Streamlit (Python-based web framework)
 - **Backend**: Machine Learning model for recommendations
 - **Deployment**: Render platform
 
 ---
 
-📘 Usage
+## Usage
 Visit the Live Demo.
 Enter your favorite movie or select genres to get recommendations.
 Explore the list of suggested movies tailored to your preferences.
 
 ---
-### 🤝 Contributing
+### Contributing
 Contributions are welcome! If you'd like to contribute:
 
 Fork the repository.
